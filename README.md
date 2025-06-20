@@ -54,7 +54,7 @@ pip3 install requests xmltodict openpyxl
 2. **Script Variables**
    In `main.py`, update the `PANORAMA_IP` constant to point to your Panorama management IP or hostname:
    ```python
-   PANORAMA_IP = "192.168.2.31"
+   PANORAMA_IP = "192.168.1.1"
    ```
 
 ## Usage

@@ -21,7 +21,7 @@ except ImportError:
     sys.exit(1)
 
 # Panorama connection settings
-PANORAMA_IP = "192.168.2.31"  # Update this to your Panorama's IP or hostname
+PANORAMA_IP = "192.168.1.1"  # Update this to your Panorama's IP or hostname
 OUTPUT_FILE = "Panorama_Security_Rules.xlsx"
 
 # Configure logging to file and console with timestamp, level, and message.
